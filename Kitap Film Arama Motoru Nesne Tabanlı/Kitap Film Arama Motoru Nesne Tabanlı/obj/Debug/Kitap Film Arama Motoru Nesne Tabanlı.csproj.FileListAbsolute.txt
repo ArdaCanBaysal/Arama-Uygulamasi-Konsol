@@ -1,0 +1,7 @@
+C:\Users\ardac\OneDrive\Masaüstü\C#\Kitap Film Arama Motoru Nesne Tabanlı\Kitap Film Arama Motoru Nesne Tabanlı\obj\Debug\Kitap Film Arama Motoru Nesne Tabanlı.csproj.AssemblyReference.cache
+C:\Users\ardac\OneDrive\Masaüstü\C#\Kitap Film Arama Motoru Nesne Tabanlı\Kitap Film Arama Motoru Nesne Tabanlı\obj\Debug\Kitap Film Arama Motoru Nesne Tabanlı.csproj.CoreCompileInputs.cache
+C:\Users\ardac\OneDrive\Masaüstü\C#\Kitap Film Arama Motoru Nesne Tabanlı\Kitap Film Arama Motoru Nesne Tabanlı\bin\Debug\Kitap Film Arama Motoru Nesne Tabanlı.exe.config
+C:\Users\ardac\OneDrive\Masaüstü\C#\Kitap Film Arama Motoru Nesne Tabanlı\Kitap Film Arama Motoru Nesne Tabanlı\bin\Debug\Kitap Film Arama Motoru Nesne Tabanlı.exe
+C:\Users\ardac\OneDrive\Masaüstü\C#\Kitap Film Arama Motoru Nesne Tabanlı\Kitap Film Arama Motoru Nesne Tabanlı\bin\Debug\Kitap Film Arama Motoru Nesne Tabanlı.pdb
+C:\Users\ardac\OneDrive\Masaüstü\C#\Kitap Film Arama Motoru Nesne Tabanlı\Kitap Film Arama Motoru Nesne Tabanlı\obj\Debug\Kitap Film Arama Motoru Nesne Tabanlı.exe
+C:\Users\ardac\OneDrive\Masaüstü\C#\Kitap Film Arama Motoru Nesne Tabanlı\Kitap Film Arama Motoru Nesne Tabanlı\obj\Debug\Kitap Film Arama Motoru Nesne Tabanlı.pdb
